@@ -1,3 +1,4 @@
+# test project 1th. Writing values to file  
 import PySimpleGUI as sg
 import os
 working_directory = os.getcwd()
